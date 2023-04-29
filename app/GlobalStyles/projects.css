@@ -1,0 +1,25 @@
+.project-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.all-projects {
+    margin: 4%;
+}
+
+.pro-img {
+    height: 200px;
+    width: 350px;
+}
+
+.all-projects a {
+    color: var(--third-color);
+}

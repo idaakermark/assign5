@@ -1,0 +1,13 @@
+:root {
+    background-color: var(--secondary-color);
+    font-family: Poppins;
+}
+
+body {
+    background-color: var(--secondary-color);
+    color: var(--fourth-color);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+}
