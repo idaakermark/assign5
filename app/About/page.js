@@ -1,11 +1,11 @@
 import Menu from "../Menu"
-import '../GlobalStyles/about.css'
-import '../GlobalStyles/variables.css' 
-import '../GlobalStyles/globals.css'
-import '../GlobalStyles/home.css'
-import '../GlobalStyles/typography.css'
-import aboutimg from '../../public/images/aboutimg.png'
-import Image from 'next/image'
+import "../GlobalStyles/about.css"
+import "../GlobalStyles/variables.css" 
+import "../GlobalStyles/globals.css"
+import "../GlobalStyles/home.css"
+import "../GlobalStyles/typography.css"
+import aboutimg from "../../public/images/aboutimg.png"
+import Image from "next/image"
 
 export default function About () {
 

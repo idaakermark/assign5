@@ -1,13 +1,12 @@
-import Menu from "./Menu";
-import Link from "next/link";
-import './GlobalStyles/menu.css'
-//import './GlobalStyles/home.css'
-import './GlobalStyles/variables.css' 
-import './GlobalStyles/globals.css'
-import './GlobalStyles/home.css'
-import './GlobalStyles/typography.css'
-import homeimg from '../public/images/homeimg.png'
-import Image from 'next/image'
+import Menu from "./Menu"
+import Link from "next/link"
+import "./GlobalStyles/menu.css"
+import "./GlobalStyles/variables.css" 
+import "./GlobalStyles/globals.css"
+import "./GlobalStyles/home.css"
+import "./GlobalStyles/typography.css"
+import homeimg from "../public/images/homeimg.png"
+import Image from "next/image"
 
 export default function Home () {
   return (

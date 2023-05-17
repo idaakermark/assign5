@@ -1,12 +1,11 @@
 import Menu from "../Menu"
-import Link from "next/link"
-import contactimg from '../../public/images/contactimg.png'
-import Image from 'next/image'
-import '../GlobalStyles/contact.css'
-import '../GlobalStyles/variables.css' 
-import '../GlobalStyles/globals.css'
-import '../GlobalStyles/home.css'
-import '../GlobalStyles/typography.css'
+import contactimg from "../../public/images/contactimg.png"
+import Image from "next/image"
+import "../GlobalStyles/contact.css"
+import "../GlobalStyles/variables.css" 
+import "../GlobalStyles/globals.css"
+import "../GlobalStyles/home.css"
+import "../GlobalStyles/typography.css"
 
 export default function Contact () {
 

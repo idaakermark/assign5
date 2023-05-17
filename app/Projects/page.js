@@ -1,14 +1,13 @@
 import Menu from "../Menu"
-import Link from "next/link"
-import '../GlobalStyles/variables.css' 
-import '../GlobalStyles/globals.css'
-import '../GlobalStyles/typography.css'
-import '../GlobalStyles/projects.css'
-import pro1 from '../../public/images/pro1.png'
-import pro2 from '../../public/images/pro2.png'
-import pro3 from '../../public/images/pro3.png'
-import pro4 from '../../public/images/pro4.png'
-import pro5 from '../../public/images/pro5.png'
+import "../GlobalStyles/variables.css" 
+import "../GlobalStyles/globals.css"
+import "../GlobalStyles/typography.css"
+import "../GlobalStyles/projects.css"
+import pro1 from "../../public/images/pro1.png"
+import pro2 from "../../public/images/pro2.png"
+import pro3 from "../../public/images/pro3.png"
+import pro4 from "../../public/images/pro4.png"
+import pro5 from "../../public/images/pro5.png"
 import Image from 'next/image'
 
 export default function Projects () {
@@ -16,8 +15,8 @@ export default function Projects () {
     return (
         <div className="Projects">
             <Menu></Menu>
-            <main className='all-projects'>
-                <h1 className='project-title'>Projects</h1>
+            <main className="all-projects">
+                <h1 className="project-title">Projects</h1>
                 <hr></hr>
                 <div className="project-1">
                     <h3>Switching between articles</h3>
